@@ -26,8 +26,9 @@ If you're using a custom theme or a third-party launcher, it might conflict with
 
 This module is compatible only with Android 16 QPR1 and QPR2.
 
-Credits:
+Credits: All Credit Belong To Original Owner - AppsPorter
 
 AppsPorter APW aka Android Port World
 
-CodeNameZeroSeven for the amazing module.
+CodeNameZeroSeven for the module.
+
