@@ -1,4 +1,4 @@
-This module brings the sleek, minimalist Nothing Launcher experience to your Android 16 QPR1 & QPR2 devices! Built by CodeNameZeroSeven, this module ports the Nothing OS launcher.
+This module brings the sleek, minimalist Nothing Launcher experience to your Android 16 QPR1 & QPR2 devices! Module Built by CodeNameZeroSeven Port Made By Android Port World, this module ports the Nothing OS launcher.
 
 Features:
 
